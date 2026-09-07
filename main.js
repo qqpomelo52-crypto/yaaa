@@ -1,5 +1,3 @@
-import './style.css';
-
 const products = [
   { id: 1, cat: '衣服', name: 'Soft Breeze 襯衫', en: 'COTTON OVERSIZED SHIRT', price: 1480, color: '#d9c6b6', image: 'https://images.unsplash.com/photo-1598032895397-b9472444bf93?auto=format&fit=crop&w=700&q=85' },
   { id: 2, cat: '褲子', name: 'Everyday 寬版西褲', en: 'TAILORED WIDE TROUSERS', price: 1680, color: '#807b77', image: 'https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=700&q=85' },
